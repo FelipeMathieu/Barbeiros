@@ -10,7 +10,9 @@ namespace Barbeiros
     {
         static void Main(string[] args)
         {
-            
+            Barbearia barbearia = new Barbearia();
+
+            barbearia.execute();
         }
     }
 }
