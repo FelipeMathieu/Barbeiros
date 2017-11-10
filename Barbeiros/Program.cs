@@ -12,7 +12,7 @@ namespace Barbeiros
         {
             Barbearia barbearia = new Barbearia();
 
-            barbearia.execute();
+            barbearia.execute(8);
         }
     }
 }
