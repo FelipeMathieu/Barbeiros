@@ -1,0 +1,7 @@
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Barbeiros\Barbeiros\bin\Debug\Barbeiros.exe.config
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Barbeiros\Barbeiros\bin\Debug\Barbeiros.exe
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Barbeiros\Barbeiros\bin\Debug\Barbeiros.pdb
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Barbeiros\Barbeiros\obj\Debug\Barbeiros.csprojResolveAssemblyReference.cache
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Barbeiros\Barbeiros\obj\Debug\Barbeiros.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Barbeiros\Barbeiros\obj\Debug\Barbeiros.exe
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Barbeiros\Barbeiros\obj\Debug\Barbeiros.pdb
