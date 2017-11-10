@@ -13,12 +13,9 @@ namespace Barbeiros
             Barbearia barbearia = new Barbearia();
 
             barbearia.execute(8);
-<<<<<<< HEAD
 
             Console.ReadLine();
             return;
-=======
->>>>>>> 52a68b34fe882f1769228cc4c9d768560037125c
         }
     }
 }
