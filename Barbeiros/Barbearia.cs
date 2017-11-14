@@ -38,6 +38,7 @@ namespace Barbeiros
             {
                 clientes.Add(new cliente());
             }
+
             Thread b = new Thread(joao.execute);
             Thread[] c = new Thread[nClientes];
 

@@ -12,7 +12,7 @@ namespace Barbeiros
         {
             Barbearia barbearia = new Barbearia();
 
-            barbearia.execute(8);
+            barbearia.execute(20);
 
             Console.ReadLine();
             return;
